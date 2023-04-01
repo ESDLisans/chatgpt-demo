@@ -2,7 +2,7 @@
 
 interface ImportMetaEnv {
   readonly OPENAI_API_KEY: "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"
-  readonly HTTPS_PROXY: string
+  readonly HTTPS_PROXY: "http://127.0.0.1:7890"
   readonly OPENAI_API_BASE_URL: "https://api.openai.com"
   readonly HEAD_SCRIPTS: string
   readonly SECRET_KEY: string
