@@ -48,7 +48,7 @@ export default (props: Props) => {
             <IconEnv />
             <span>Sistem Rolü:</span>
           </div>
-          <p class="my-2 leading-normal text-sm op-50 dark:op-60">Gently instruct the assistant and set the behavior of the assistant.</p>
+          <p class="my-2 leading-normal text-sm op-50 dark:op-60">Asistana nazikçe talimat verin ve asistanın davranışını ayarlayın.</p>
           <div>
             <textarea
               ref={systemInputRef!}
